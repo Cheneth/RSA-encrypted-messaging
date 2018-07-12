@@ -4,7 +4,7 @@ Instructions to test:
 
 2. Select “Add contact” on both instances and give unique names to each contact.
 
-3.Exchange the public keys between the two instances to simulate the exchange of keys over. This process is meant to be done over any insecure messaging service.
+3. Exchange the public keys between the two instances to simulate the exchange of keys over. This process is meant to be done over any insecure messaging service.
 
 4. Now both instances have the other contact added.
 
